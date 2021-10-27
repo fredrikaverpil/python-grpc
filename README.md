@@ -2,6 +2,8 @@
 
 Ping-pong server/client using gRPC.
 
+More over at grpc.io: https://grpc.io/docs/languages/python/quickstart/
+
 ## Quickstart
 
 ```bash
